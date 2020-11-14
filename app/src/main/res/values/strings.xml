@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NilMusic</string>
+    <string name="strRecent">Recent</string>
+    <string name="strPopularSongs">Popular songs</string>
+    <string name="strNowPlaying">Now Playing</string>
+</resources>
